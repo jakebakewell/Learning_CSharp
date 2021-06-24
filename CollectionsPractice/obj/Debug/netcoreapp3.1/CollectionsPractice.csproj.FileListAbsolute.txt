@@ -1,0 +1,13 @@
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.exe
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.deps.json
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.json
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.dev.json
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.dll
+D:\Files\C#\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.pdb
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.csprojAssemblyReference.cache
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfoInputs.cache
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfo.cs
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.csproj.CoreCompileInputs.cache
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.dll
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.pdb
+D:\Files\C#\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.genruntimeconfig.cache
